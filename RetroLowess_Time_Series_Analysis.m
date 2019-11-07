@@ -1,4 +1,5 @@
 % File: RetroLowess_Time_Seres_Analysis  November 2, 2019
+% Mark W. Denny and W. Wesley Dowd
 % calculates smoothed data based on
 % a weighted regression of past data (an asymmetrical lowess)
 % copes with NaNs in the data set
